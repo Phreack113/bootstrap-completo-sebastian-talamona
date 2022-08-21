@@ -1,0 +1,16 @@
+/* CSS HEX 
+--titanium-yellow: #f4e409ff;
+--orange-yellow: #eeba0bff;
+--dark-jungle-green: #00272bff;
+--white: #fcfcfcff;
+--viridian: #56876dff;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
