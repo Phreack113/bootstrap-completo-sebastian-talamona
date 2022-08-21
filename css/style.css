@@ -12,5 +12,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    /* font-family: 'Alumni Sans Pinstripe', sans-serif; */
+}
+
+.nav-color{
+    background-color: #f4e409ff !important;
+}
+
+.logo-img{
+    width: 30px;
+    margin-right: 10px;
 }
